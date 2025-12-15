@@ -1,5 +1,5 @@
 # Amazon Prime Video PowerBI Dashboard📺
-<img width="300" alt="Coding" src="https://github.com/your-username/Amazon_Prime_PowerBI_Dashboard/assets/banner-image">
+<img width="300" height="300" alt="Prime video logo" src="https://github.com/user-attachments/assets/de2cc46f-89fa-48b2-9912-71e9359d2f56" />
 
 <h1><a name="introduction">Introduction</a></h1>
 <p>Amazon Prime Video is one of the world’s leading streaming platforms, offering a vast and diverse collection of movies, TV shows, and original content across multiple regions. With its rapidly expanding content library, understanding viewing trends, genre distribution, and regional availability is essential. Our <b>“Amazon Prime Video Power BI Dashboard”</b> explores this rich entertainment ecosystem, uncovering valuable insights that support content strategy, market analysis, and audience engagement.</p>
@@ -15,7 +15,8 @@
 </ul>
 
 <h1><a name='dashboard'>Dashboard</a></h1>
-<img width="900" alt="Coding" src="https://github.com/your-username/Amazon_Prime_PowerBI_Dashboard/blob/main/Amazon%20Prime%20Dashboard.png">
+<img width="1424" height="793" alt="Screenshot 2025-12-15 232239" src="https://github.com/user-attachments/assets/5a24af2d-cd78-46b4-bb71-05194654b8ad" />
+
 
 <h1><a name="visualizationtools">Visualization Tools</a></h1>
 <ul>
